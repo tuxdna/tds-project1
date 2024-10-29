@@ -63,7 +63,12 @@ All of these steps are present in the accompanying Jupyter notebook code.
 
 ## Most interesting and surprising fact found after analyzing the data
 
-
+Users with longer bio tend to have less number of followers. Also with increasing words in bio, the follower count decreases by 11 for every additional word.
 
 ## An actionable recommendation for developers based on the analysis
 
+Recommendations to developers
+
+ * Have concise bio and not try to write too much in the bio.
+ * Recent developers tend to prefer JavaScript ( after year 2020 ) to Python
+ 
